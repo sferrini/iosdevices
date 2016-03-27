@@ -1,5 +1,4 @@
 # My iOS Devices
-================
 
 
 | Generation    | "A" Number | Bootrom                 | Internal Name | Identifier | Model | iOS   |
@@ -9,6 +8,7 @@
 | Apple TV 4G   | A1625      | [Bootrom 1992.0.0.1.19] | [J42dAP]      | AppleTV5,3 | MGY52 | 9.2   |
 | iPod touch 4G | A1367      | [Bootrom 574.4]         | [N81AP]       | iPod4,1    | MD057 | 6.1   |
 | iPod touch 4G | A1367      | [Bootrom 574.4]         | [N81AP]       | iPod4,1    | MC540 | 6.1.3 |
+
 
 [All models (For reference)](https://www.theiphonewiki.com/wiki/Models)
 
