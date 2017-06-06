@@ -3,7 +3,7 @@
 
 | Generation    | "A" Number | Bootrom                 | Internal Name | Identifier | Model | iOS    |
 |:-------------:|:----------:|:-----------------------:|:-------------:|:----------:|:-----:|:------:|
-| iPhone 6      | A1586      | [Bootrom 1992.0.0.1.19] | [N61AP]       | iPhone7,2  | MG4H2 | 10.1.1 |
+| iPhone 6      | A1586      | [Bootrom 1992.0.0.1.19] | [N61AP]       | iPhone7,2  | MG4H2 | 10.3.2 |
 | iPhone 5      | A1429      | [Bootrom 1145.3]        | [N42AP]       | iPhone5,2  | MD297 | 9.2.1  |
 | iPhone 4S     | A1387      | [Bootrom 838.3]         | [N94AP]       | iPhone4,1  | MD242 | 8.4    |
 | iPhone 4S     | A1387      | [Bootrom 838.3]         | [N94AP]       | iPhone4,1  | MD239 | 7.1.2  |
